@@ -11,7 +11,10 @@ class SearchBar extends React.Component {
 
   render() {
     return (
-      <div className="ui fluid category search">
+      <div
+        className="ui fluid category search"
+        style={{ marginBottom: '10px' }}
+      >
         <form
           className="ui icon input"
           onSubmit={this.onFormSubmit}
