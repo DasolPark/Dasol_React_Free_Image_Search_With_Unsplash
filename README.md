@@ -1,6 +1,6 @@
 # Free Image Search With Unsplash API
 
-- URL: http://gitname.github.io/Dasol_React_Free_Image_Search_With_Unsplash
+- URL: http://DasolPark.github.io/Dasol_React_Free_Image_Search_With_Unsplash
 - ReactJS with Unsplash API
 
 # Goals
