@@ -1,4 +1,5 @@
 import React from 'react';
+import './SearchBar.css';
 
 class SearchBar extends React.Component {
   state = { term: '' };
@@ -11,10 +12,7 @@ class SearchBar extends React.Component {
 
   render() {
     return (
-      <div
-        className="ui fluid category search"
-        style={{ marginBottom: '10px' }}
-      >
+      <div className="ui fluid category search">
         <form
           className="ui icon input"
           onSubmit={this.onFormSubmit}

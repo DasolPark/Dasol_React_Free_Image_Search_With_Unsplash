@@ -1,0 +1,6 @@
+.ui.fluid.category.search {
+  margin-bottom: 10px;
+  box-shadow: 0 1.9px 7.8px rgba(0, 0, 0, 0.048),
+    0 2.9px 11.8px rgba(0, 0, 0, 0.072), 0 6px 24px rgba(0, 0, 0, 0.12);
+  border-radius: 20px;
+}
