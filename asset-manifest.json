@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dasol_React_Free_Image_Search_With_Unsplash/static/css/main.70f2b2c7.chunk.css",
+    "main.js": "/Dasol_React_Free_Image_Search_With_Unsplash/static/js/main.d97b5b28.chunk.js",
+    "main.js.map": "/Dasol_React_Free_Image_Search_With_Unsplash/static/js/main.d97b5b28.chunk.js.map",
+    "runtime-main.js": "/Dasol_React_Free_Image_Search_With_Unsplash/static/js/runtime-main.dca50db2.js",
+    "runtime-main.js.map": "/Dasol_React_Free_Image_Search_With_Unsplash/static/js/runtime-main.dca50db2.js.map",
+    "static/js/2.bfe4bcf4.chunk.js": "/Dasol_React_Free_Image_Search_With_Unsplash/static/js/2.bfe4bcf4.chunk.js",
+    "static/js/2.bfe4bcf4.chunk.js.map": "/Dasol_React_Free_Image_Search_With_Unsplash/static/js/2.bfe4bcf4.chunk.js.map",
+    "index.html": "/Dasol_React_Free_Image_Search_With_Unsplash/index.html",
+    "precache-manifest.914b2fe0fba0fbb6c20b1797081674ad.js": "/Dasol_React_Free_Image_Search_With_Unsplash/precache-manifest.914b2fe0fba0fbb6c20b1797081674ad.js",
+    "service-worker.js": "/Dasol_React_Free_Image_Search_With_Unsplash/service-worker.js",
+    "static/css/main.70f2b2c7.chunk.css.map": "/Dasol_React_Free_Image_Search_With_Unsplash/static/css/main.70f2b2c7.chunk.css.map",
+    "static/js/2.bfe4bcf4.chunk.js.LICENSE.txt": "/Dasol_React_Free_Image_Search_With_Unsplash/static/js/2.bfe4bcf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dca50db2.js",
+    "static/js/2.bfe4bcf4.chunk.js",
+    "static/css/main.70f2b2c7.chunk.css",
+    "static/js/main.d97b5b28.chunk.js"
+  ]
+}
