@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Dasol_React_Free_Image_Search_With_Unsplash/precache-manifest.914b2fe0fba0fbb6c20b1797081674ad.js"
+  "/Dasol_React_Free_Image_Search_With_Unsplash/precache-manifest.0f07e6f4bf12f4b7d5e4da3180af6b55.js"
 );
 
 self.addEventListener('message', (event) => {
