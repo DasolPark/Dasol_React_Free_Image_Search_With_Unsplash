@@ -10,3 +10,4 @@
 - [x] Image List
 - [x] Image Card
 - [x] Styling
+- [x] Spinner(Searching...)
